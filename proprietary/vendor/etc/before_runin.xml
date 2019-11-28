@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testlist>
+    <testitem>
+        <id>1</id>
+        <testname>版本信息测试</testname>
+    </testitem>
+    <testitem>
+        <id>42</id>
+        <testname>SIM卡测试</testname>
+    </testitem>
+    <testitem>
+        <id>45</id>
+        <testname>按键测试</testname>
+    </testitem>
+    <testitem>
+        <id>69</id>
+        <testname>屏幕显示测试</testname>
+    </testitem>
+    <testitem>
+        <id>66</id>
+        <testname>FM测试</testname>
+    </testitem>
+</testlist>
+

@@ -1,0 +1,6 @@
+Acc lsm6dso_0_platform.accel.fac_cal.bias /vendor/etc/sensors/config/sm6150_lsm6dso_0.json 0
+Gyr lsm6dso_0_platform.gyro.fac_cal.bias /vendor/etc/sensors/config/sm6150_lsm6dso_0.json 0
+Lux tcs3701_platform.als.fac_cal /vendor/etc/sensors/config/sm6150_tcs3701.json 0
+Tof vl53l1_tof_platform.prox.customer /vendor/etc/sensors/config/sm6150_vl53l1_tof_0.json 0
+Lux tcs3701_platform.oled_cal_factor /vendor/etc/sensors/config/sm6150_tcs3701.json 1
+Sar adux1050_0.custom.config /vendor/etc/sensors/config/adux1050_0.json 0

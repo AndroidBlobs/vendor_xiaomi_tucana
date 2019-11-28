@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<testlist>
+    <testitem>
+        <id>48</id>
+        <testname>加速度感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>49</id>
+        <testname>陀螺仪感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>51</id>
+        <testname>磁场感应器测试</testname>
+    </testitem>
+    <testitem>
+        <id>50</id>
+        <testname>光线感应器测试</testname>
+    </testitem>
+     <testitem>
+        <id>53</id>
+        <testname>电池测试</testname>
+    </testitem>
+    <testitem>
+        <id>63</id>
+        <testname>无SIM卡测试</testname>
+    </testitem>
+    <testitem>
+        <id>54</id>
+        <testname>GPS测试</testname>
+    </testitem>
+    <testitem>
+        <id>57</id>
+        <testname>后置相机测试(Wide camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_rear_main:0</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>59</id>
+        <testname>后置副相机测试(tele camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_rear_sub:20</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>60</id>
+        <testname>后置副二相机测试(ultra camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_rear_sub_second:21</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>87</id>
+        <testname>后置副三相机测试(macro camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_rear_sub_second:22</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>88</id>
+        <testname>后置副四相机测试(tele4x camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_rear_sub_second:23</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>58</id>
+        <testname>前置相机测试(front camera)</testname>
+        <addtionalparams>total_camera_id:8,camera_id_front:1</addtionalparams>
+    </testitem>
+    <testitem>
+        <id>91</id>
+        <testname>电池加密认证测试</testname>
+    </testitem>
+    <testitem>
+        <id>52</id>
+        <testname>指纹传感器测试</testname>
+    </testitem>
+</testlist>
